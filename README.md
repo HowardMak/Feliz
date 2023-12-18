@@ -9,4 +9,5 @@
   <li>Posts</li>
   <li>Encyclopedia</li>
   <li>Mall</li>
+  <li>Donation</li>
 </ol>
